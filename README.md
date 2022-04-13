@@ -1,14 +1,14 @@
-A stub for developing a python package
+# A stub for developing a python package
 
-###How to use:
+### How to use:
 
-1. Run
+1. Download dependencies (you may want to create a virtual environment first)
 
 ```
 make init
 ```
 
-test:
+2. Test:
 
 ```
 make test
